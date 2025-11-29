@@ -1,4 +1,4 @@
-local DEBUG = true
+local DEBUG = false
 
 local socket = require "posix.sys.socket"
 local unistd = require "posix.unistd"
